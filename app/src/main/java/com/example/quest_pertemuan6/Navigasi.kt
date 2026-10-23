@@ -7,3 +7,4 @@ enum class Navigasi {
     Detail
 }
 @Composable
+fun DataApp(){}
